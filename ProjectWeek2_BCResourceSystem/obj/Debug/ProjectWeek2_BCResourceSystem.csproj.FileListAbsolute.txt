@@ -1,0 +1,6 @@
+c:\users\mary winkelman\documents\visual studio 2015\Projects\ProjectWeek2_BCResourceSystem\ProjectWeek2_BCResourceSystem\bin\Debug\ProjectWeek2_BCResourceSystem.exe.config
+c:\users\mary winkelman\documents\visual studio 2015\Projects\ProjectWeek2_BCResourceSystem\ProjectWeek2_BCResourceSystem\bin\Debug\ProjectWeek2_BCResourceSystem.exe
+c:\users\mary winkelman\documents\visual studio 2015\Projects\ProjectWeek2_BCResourceSystem\ProjectWeek2_BCResourceSystem\bin\Debug\ProjectWeek2_BCResourceSystem.pdb
+c:\users\mary winkelman\documents\visual studio 2015\Projects\ProjectWeek2_BCResourceSystem\ProjectWeek2_BCResourceSystem\obj\Debug\ProjectWeek2_BCResourceSystem.csprojResolveAssemblyReference.cache
+c:\users\mary winkelman\documents\visual studio 2015\Projects\ProjectWeek2_BCResourceSystem\ProjectWeek2_BCResourceSystem\obj\Debug\ProjectWeek2_BCResourceSystem.exe
+c:\users\mary winkelman\documents\visual studio 2015\Projects\ProjectWeek2_BCResourceSystem\ProjectWeek2_BCResourceSystem\obj\Debug\ProjectWeek2_BCResourceSystem.pdb
